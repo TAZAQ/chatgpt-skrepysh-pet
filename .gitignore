@@ -1,0 +1,19 @@
+# Local operating system and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+*.swp
+*~
+
+# Local agent state and credentials
+.agents/
+.codex/
+.aws/
+.env
+.env.*
+
+# Python cache
+__pycache__/
+*.py[cod]
